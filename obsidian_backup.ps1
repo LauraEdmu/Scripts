@@ -1,0 +1,1 @@
+robocopy "I:\Obsidian" "F:\Obsidian_Backup" /MIR /XA:SH /R:5 /W:5
